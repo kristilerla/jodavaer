@@ -1,9 +1,14 @@
 body {
     background-color: #D2DDE5;
+    font-family: lato;
+    
        
 }
 .weather-app {
     background-color: #FEECEE;
     max-width: 600px;
-    margin: 0 auto;
+    margin: 30px auto;
+    padding: 30px;
+    box-shadow: 0 30px 50px rgba(65, 50, 100, .08);
+    border-radius: 7px;
 }
