@@ -43,7 +43,8 @@ a {
     margin-left: 10px;
 }
 .weather-app-unit {
-    font-size: 44px;
+    font-size: 28px;
+    margin-top: 18px;
 }
 header {
     border-bottom: 1px solid #D2DDE5 ;
