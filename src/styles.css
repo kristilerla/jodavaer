@@ -34,17 +34,19 @@ a {
     display: flex;
 }
 .weather-app-icon {
-    font-size: 44px;
+    witdt: 88px;
+    height: 88px;
     margin-top: 22px;
 }
 .weather-app-temperature {
     font-size: 88px;
     font-weight: bold;
+    line-height: 88px;
     margin-left: 10px;
 }
 .weather-app-unit {
     font-size: 28px;
-    margin-top: 18px;
+    margin-top: 6px;
 }
 header {
     border-bottom: 1px solid #D2DDE5 ;
